@@ -1,7 +1,9 @@
 # 👋 Hi, I’m **Aram Elheni**
 
 💻 **Bioinformatics Enthusiast | Software Engineer | Data Science Explorer**
+
 📍 Based in Tunis, Tunisia
+
 🎓 Student at **South Mediterranean University – MedTech**
 
 ---
