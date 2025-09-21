@@ -57,11 +57,9 @@
 
 ---
 
-## 🌱 What’s Next
-
-* 🚀 Deepening skills in **genome sequencing workflows**  
-* 🤝 Contributing more to **open-source projects** at the intersection of AI + health  
-* 🧑‍🏫 Building tools that make **bioinformatics accessible** worldwide  
+## 📊 GitHub Stats:
+![Profile views](https://komarev.com/ghpvc/?username=aramelheni&label=Profile%20views&color=0e75b6&style=flat)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aramelheni&hide_border=false)![](https://github-readme-stats.vercel.app/api?username=aramelheni&hide_border=false&include_all_commits=true&count_private=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=aramelheni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
