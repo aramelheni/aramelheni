@@ -25,7 +25,7 @@
 | 🧪 [**crc-ai-model**](https://github.com/aramelheni/crc-ai-model)                                                                                            | Pipeline for genus-level 16S rRNA sequencing analysis                     |
 | ⚖️ [**Easy-Legal-Frontend**](https://github.com/aramelheni/Easy-Legal) & [**Easy-Legal-Backend**](https://github.com/aramelheni/Easy-Legal-Backend) | A MERN web app to streamline workflows for legal professionals            |
 | 🐶 [**ISS-2024**](https://github.com/YoussefJaziri456/ISS-2024)                                                                                              | A fun dating app for dogs                                                 |
-| 💡 [**Digitomize**](https://github.com/digitomize/digitomize)                                                                                                | Open-source platform combining coding contests & profiles                 |
+| 💡 [**Digitomize**](https://github.com/aramelheni/digitomize)                                                                                                | Open-source platform combining coding contests & profiles                 |
 
 ---
 
