@@ -1,8 +1,8 @@
 # 👋 Hi, I’m **Aram Elheni**
 
-💻 **Bioinformatics Enthusiast | Software Engineer | Data Science Explorer**
+💻 **Bioinformatics Enthusiast | Software Engineer | Data Science Explorer**  
 
-📍 Based in Tunis, Tunisia
+📍 Based in Tunis, Tunisia  
 
 🎓 Student at **South Mediterranean University – MedTech**
 
@@ -10,54 +10,85 @@
 
 ## 🚀 What I Do
 
-* 🧬 Build **pipelines & ML models** to extract insights from biological & health data
-* 🤖 Apply **AI/ML techniques** to solve bioinformatics challenges
-* 🌐 Develop **full-stack applications** (frontend & backend)
+* 🧬 Build **pipelines & ML models** to extract insights from biological & health data  
+* 🤖 Apply **AI/ML techniques** to solve bioinformatics challenges  
+* 🌐 Develop **full-stack & mobile applications**  
 * 📚 Constantly learning & exploring **genomics, computational biology, and data science**
 
 ---
 
 ## 📂 Featured Projects
 
-| 🌟 Project                                                                                                                                                   | 🔎 Description                                                            |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------- |
-| 🧬 [**ColorectalCancer-Detection**](https://github.com/aramelheni/ColorectalCancer-Detection)                                                                | Predicting colorectal cancer from gut microbiome sequencing data using ML |
-| 🧪 [**crc-ai-model**](https://github.com/aramelheni/crc-ai-model)                                                                                            | Pipeline for genus-level 16S rRNA sequencing analysis                     |
-| ⚖️ [**Easy-Legal-Frontend**](https://github.com/aramelheni/Easy-Legal) & [**Easy-Legal-Backend**](https://github.com/aramelheni/Easy-Legal-Backend) | A MERN web app to streamline workflows for legal professionals            |
-| 🐶 [**ISS-2024**](https://github.com/YoussefJaziri456/ISS-2024)                                                                                              | A fun dating app for dogs                                                 |
-| 💡 [**Digitomize**](https://github.com/aramelheni/digitomize)                                                                                                | Open-source platform combining coding contests & profiles                 |
+| 🌟 Project | 🔎 Description |
+| --- | --- |
+| 🧬 [**ColorectalCancer-Detection**](https://github.com/aramelheni/ColorectalCancer-Detection) | Predicting colorectal cancer from gut microbiome sequencing data using ML |
+| 🧪 [**crc-ai-model**](https://github.com/aramelheni/crc-ai-model) | Pipeline for genus-level 16S rRNA sequencing analysis |
+| ⚖️ [**Easy-Legal-Frontend**](https://github.com/aramelheni/Easy-Legal) & [**Easy-Legal-Backend**](https://github.com/aramelheni/Easy-Legal-Backend) | A MERN web app to streamline workflows for legal professionals |
+| 🐶 [**ISS-2024**](https://github.com/YoussefJaziri456/ISS-2024) | A fun dating app for dogs |
+| 💡 [**Digitomize**](https://github.com/aramelheni/digitomize) | Open-source platform combining coding contests & profiles |
 
 ---
 
 ## 🛠 Tech & Tools
 
-* **Languages:** 🐍 Python, ☕ JavaScript, + more
-* **Frameworks:** ⚛️ React, 🌐 Node.js, 📊 Jupyter Notebooks
-* **Bioinformatics & Data:** 🔬 ML pipelines, 🧫 Microbiome / 16S rRNA analysis
-* **Other:** 🗂 Git & GitHub, 🔧 APIs, ☁️ Deployments
+### 💻 Languages
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> 
+
+### 🌐 Web & Mobile Development
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> (React Native)
+
+### 🧪 Testing
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" width="40"/>
+
+### 📊 Data Science / Analysis
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40"/> 
+
+### 🗄 Databases
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+
+### ⚙️ Tools & DevOps
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
 
 ---
 
 ## 📚 Interests
 
-* 🧠 AI in healthcare
-* 🧬 Genomics & microbiome research
-* 🩺 Disease prediction models
-* 🌍 Open source & collaborative projects
+* 🧠 AI in healthcare  
+* 🧬 Genomics & microbiome research  
+* 🩺 Disease prediction models  
+* 🌍 Open source & collaborative projects  
 
 ---
 
 ## 🌱 What’s Next
 
-* 🚀 Deepening skills in **genome sequencing workflows**
-* 🤝 Contributing more to **open-source projects** at the intersection of AI + health
-* 🧑‍🏫 Building tools that make **bioinformatics accessible** worldwide
+* 🚀 Deepening skills in **genome sequencing workflows**  
+* 🤝 Contributing more to **open-source projects** at the intersection of AI + health  
+* 🧑‍🏫 Building tools that make **bioinformatics accessible** worldwide  
 
 ---
 
 ## 🌐 Connect With Me
 
-* 🐙 GitHub: [aramelheni](https://github.com/aramelheni)
-* 💼 LinkedIn: [Aram Elheni](https://www.linkedin.com/in/aram-elheni-b76917277/)
-
-✨ Always open to collaborations, projects, or just a chat about **AI + bioinformatics**!
+* 🐙 GitHub: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/> [aramelheni](https://github.com/aramelheni)  
+* 💼 LinkedIn: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> [Aram Elheni](https://www.linkedin.com/in/aram-elheni-b76917277/)  
+* ✉️ Email: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20"/> aram.elheni@medtech.tn
