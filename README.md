@@ -4,7 +4,7 @@
 
 📍 Based in Tunis, Tunisia  
 
-🎓 Engineer's Degree in Software Engineering from the **South Mediterranean University – MedTech**
+🎓 _Engineer's Degree in Software Engineering_ from the **South Mediterranean University – MedTech**
 
 ---
 
