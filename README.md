@@ -69,4 +69,4 @@
 
 * 🐙 GitHub: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/> [aramelheni](https://github.com/aramelheni)  
 * 💼 LinkedIn: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> [Aram Elheni](https://www.linkedin.com/in/aram-elheni-b76917277/)  
-* ✉️ Email: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20"/> aram.elheni@medtech.tn
+* ✉️ Email: <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018–present%29.svg" width="20"/> aram.elheni@medtech.tn
