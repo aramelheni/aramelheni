@@ -67,7 +67,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazon
 
 ## 📊 GitHub Stats:
 ![Profile views](https://komarev.com/ghpvc/?username=aramelheni&label=Profile%20views&color=0e75b6&style=flat)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aramelheni&hide_border=false)![](https://github-readme-stats.vercel.app/api?username=aramelheni&hide_border=false&include_all_commits=true&count_private=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=aramelheni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=aramelheni&hide_border=false) ![](https://github-readme-stats.vercel.app/api?username=aramelheni&hide_border=false&include_all_commits=true&count_private=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=aramelheni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
