@@ -65,6 +65,7 @@ src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/googlecolab.svg" width="
 
 <p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/> <img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/> <img 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg" width="40"/> <img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> </p>
 
 ### ⚙️ Tools & DevOps
