@@ -99,4 +99,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original
 
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/> GitHub: [aramelheni](https://github.com/aramelheni)  
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> LinkedIn: [Aram Elheni](https://www.linkedin.com/in/aram-elheni-b76917277/)  
-* <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018–present%29.svg" width="20"/> Email: [aram.elheni@medtech.tn](mailto:aram.elheni@medtech.tn)
+* <img src="https://github.com/sempostma/office365-icons/blob/4ef2ee3dc5705f4ab23bc5fc7f236884d0bc10f3/png/256/outlook.png" width="20"/> Email: [aram.elheni@medtech.tn](mailto:aram.elheni@medtech.tn)
